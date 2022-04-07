@@ -1,0 +1,23 @@
+@media screen and (max-width: 480px ) {
+    .abc{
+        display:block;
+    }
+    .photo{
+        display: none;
+    }
+    .text{
+        display: none;
+    }
+}
+
+@media  (min-width: 481px ) and (max-width: 768px) {
+    .abc{
+        display:block;
+    }
+    .photo{
+        display: none;
+    }
+    .text{
+        display: none;
+    }
+}

@@ -1,0 +1,22 @@
+progress {
+    border: none;
+    width: 400px;
+    height: 60px;
+    background: #56CDAD;
+  }
+  
+  progress {
+    color: #56CDAD;
+  }
+  
+  progress::-moz-progress-bar {
+    background: lightcolor;
+  }
+  
+  progress::-webkit-progress-value {
+    background: #56CDAD;
+  }
+  
+  progress::-webkit-progress-bar {
+    background: rgb(235, 233, 233);
+  }
